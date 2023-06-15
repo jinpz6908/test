@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject_one"]=self["webpackChunkproject_one"]||[]).push([[315],{26315:function(t,n,r){r.r(n),r.d(n,{default:function(){return c}});var s=function(){var t=this,n=t._self._c;return n("div",{staticClass:"notfound"},[n("div",{staticClass:"wrapper"},[n("div",{staticClass:"big"},[t._v("页面不见了！")]),n("div",[t._v("首页瞧瞧，点击"),n("router-link",{attrs:{to:"/"}},[t._v("这里")]),t._v("进入首页.")],1)])])},e=[],u={data(){return{}}},a=u,i=r(1001),l=(0,i.Z)(a,s,e,!1,null,null,null),c=l.exports}}]);
+//# sourceMappingURL=315.ddf0348d.js.map
